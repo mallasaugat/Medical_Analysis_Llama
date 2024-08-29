@@ -1,0 +1,3 @@
+- Login to Hugging Face
+- Login to Weight and Biases
+- Run the hf-model notebook
