@@ -4,3 +4,5 @@ peft
 trl 
 wandb
 bitsandbytes
+
+huggingface_hub
