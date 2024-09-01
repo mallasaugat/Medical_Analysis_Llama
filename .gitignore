@@ -1,6 +1,6 @@
 wandb/
 
-Llama-Fine-Tune.pem
 
 .gitignore
-
+.ssh
+.ipynb_checkpoints

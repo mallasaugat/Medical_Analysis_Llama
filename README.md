@@ -33,7 +33,8 @@
 
 
 # Training:
-- 
+- For training the model I used Lambda labs cloud GPUs.
+
 
 # Steps to Use:
 - Login to Hugging Face and get access to Llama Models
